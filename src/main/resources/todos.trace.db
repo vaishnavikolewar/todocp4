@@ -1,0 +1,39 @@
+2023-03-18 10:17:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todo_list todo0_ [42102-214]
+2023-03-18 10:17:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+insert into todo_list (id, priority, status, todo) values (default, ?, ?, ?) [42102-214]
+2023-03-18 10:17:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_0_, todo0_.priority as priority2_0_0_, todo0_.status as status3_0_0_, todo0_.todo as todo4_0_0_ from todo_list todo0_ where todo0_.id=? [42102-214]
+2023-03-18 10:17:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODO_LIST" not found; SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todo_list todo0_ [42102-214]
